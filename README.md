@@ -2,13 +2,9 @@
 # <h1>
 ## <h2>
 This is my first Header
-</h2>
-
 # Communicate using Markdown
 
 _Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
-
-</h1>
 </header>
 <!--
   <<< Author notes: Step 1 >>>

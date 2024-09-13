@@ -1,3 +1,4 @@
+<header>
 # <h1>
 ## <h2>
 This is my first Header
@@ -8,7 +9,7 @@ This is my first Header
 _Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
 
 </h1>
-
+</header>
 <!--
   <<< Author notes: Step 1 >>>
   Choose 3-5 steps for your course.
